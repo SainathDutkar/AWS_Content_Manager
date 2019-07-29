@@ -18,8 +18,7 @@ def upload_file(file_name, bucket, object_name,DocSeq,
     if object_name is None:
         object_name = file_name
         
-    access_key_id="AKIASZIKFIJSEB74YB6M"
-    secret_access_key= "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"
+   
         
     # Upload the file
     s3_client = boto3.client('s3',aws_access_key_id=access_key_id,
