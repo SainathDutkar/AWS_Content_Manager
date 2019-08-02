@@ -1,9 +1,10 @@
 # AWS_Content_Manager
 
-##Background
+## Background
+
 A pipeline for storing the files along with their meta-data. The files can we searched and retrieved on the basis for querying the meta-data. Files can be merged and stored on S3
 
-##Requirement 
+## Requirement 
 1.	AWS S3
 2.	AWS dynamo DB
 3.	AWS IAM User groups and User
@@ -14,7 +15,7 @@ A pipeline for storing the files along with their meta-data. The files can we se
 8.	Dash (User Interface)
 
 
-##Pipeline
+## Pipeline
 ![alt text](https://github.com/SainathDutkar/AWS_Content_Manager/blob/master/images/pipeline.PNG)
 
 
@@ -30,5 +31,5 @@ Merge Files
 ![alt text](https://github.com/SainathDutkar/AWS_Content_Manager/blob/master/images/MergeFilesPage.PNG)
 
 
-##Replication
+## Replication
 The general information and steps to replicate the project can be found in the file under documentation folder
