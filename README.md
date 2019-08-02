@@ -2,7 +2,7 @@
 
 ## Background
 
-A pipeline for storing the files along with their meta-data. The files can we searched and retrieved on the basis for querying the meta-data. Files can be merged and stored on S3
+A pipeline for storing the files along with their meta-data. The files can be searched and retrieved on the basis of querying the meta-data. Files can be merged and stored on S3
 
 ## Requirement 
 1.	AWS S3
